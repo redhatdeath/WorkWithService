@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Work With Service</string>
+    <string name="start_simple_service">Start simple service</string>
+    <string name="start_foreground_service">Start foreground service</string>
+    <string name="stop_all_service">Stop all service</string>
+    <string name="press_to_test">Press to test</string>
+</resources>
